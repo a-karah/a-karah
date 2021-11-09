@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Currently study at 42 İstanbul
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/akarahan)](https://github.com/JaeSeoKim/badge42)
