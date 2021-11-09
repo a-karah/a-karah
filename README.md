@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=a-karah&label=Profile%20views&color=0e75b6&style=flat" alt="bycop" />
+</p>
+
+- 👨‍🎓 I'm currently study at [42 İstanbul](https://www.42istanbul.com.tr/)
 - 🌱 I’m currently learning C
-- 👨‍🎓 I'm currently study at 42 İstanbul
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
@@ -11,7 +15,3 @@
 </div>
 
 <hr>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/a-karah/count.svg" />
-</p>
