@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning C
-- 👨‍🎓 Currently study at 42 İstanbul
+- 👨‍🎓 I'm currently study at 42 İstanbul
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
