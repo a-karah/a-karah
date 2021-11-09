@@ -1,20 +1,17 @@
 ### Hi there 👋
 
-<!--
-**a-karah/a-karah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning C
+- 👨‍🎓 Currently study at 42 İstanbul
 
-Here are some ideas to get you started:
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://badge42.herokuapp.com/api/stats/akarahan?privacyEmail=true&darkmode=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-karah&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- Currently study at 42 İstanbul
-
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/akarahan)](https://github.com/JaeSeoKim/badge42)
+<hr>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/a-karah/count.svg" />
+</p>
