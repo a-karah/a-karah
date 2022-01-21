@@ -22,7 +22,7 @@
 |00	     |[Libft](https://github.com/a-karah/Libft)		                  |C	         | ![](https://badge42.herokuapp.com/api/project/akarahan/Libft) | 1.05     |
 |:dizzy: |						                                                  |     	     |		                              				                     |          |
 |01	     |[Born2beroot]()	                                             	|Networking  | ![](https://badge42.herokuapp.com/api/project/akarahan/Born2beroot)|1.31 |
-|01   	 |[get_next_line]()	|C	     | ![]()                                         |	 |
+|01   	 |[get_next_line](https://github.com/a-karah/get_next_line)	    |C	         | ![](https://badge42.herokuapp.com/api/project/akarahan/get_next_line)|1.75|
 |01   	 |[ft_printf]()		  |C	     | ![]()                                               | 	|
 |:dizzy: |						                                                  |     	     |		                              				                     |          |
 |02	 |[push_swap]()   |   C	| ![]()						     |	         |
