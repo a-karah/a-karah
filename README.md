@@ -23,7 +23,7 @@
 |:dizzy: |						                                                  |     	     |		                              				                     |          |
 |01	     |[Born2beroot]()	                                             	|Networking  | ![](https://badge42.herokuapp.com/api/project/akarahan/Born2beroot)|1.31 |
 |01   	 |[get_next_line](https://github.com/a-karah/get_next_line)	    |C	         | ![](https://badge42.herokuapp.com/api/project/akarahan/get_next_line)|1.75|
-|01   	 |[ft_printf]()		  |C	     | ![]()                                               | 	|
+|01   	 |[ft_printf]()		                                              |C	         | ![](https://badge42.herokuapp.com/api/project/akarahan/ft_printf)|2.16   |
 |:dizzy: |						                                                  |     	     |		                              				                     |          |
 |02	 |[push_swap]()   |   C	| ![]()						     |	         |
 |02	 |[pipex]()							|C	|						     |		 |
