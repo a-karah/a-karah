@@ -25,7 +25,7 @@
 |01   	 |[get_next_line](https://github.com/a-karah/get_next_line)	    |C	         | ![](https://badge42.herokuapp.com/api/project/akarahan/get_next_line)|1.75|
 |01   	 |[ft_printf](https://github.com/a-karah/ft_printf)		          |C	         | ![](https://badge42.herokuapp.com/api/project/akarahan/ft_printf)|2.16   |
 |:dizzy: |						                                                  |     	     |		                              				                     |          |
-|02	 |[FdF]()							|C, Computer Graphics	|![](https://badge42.herokuapp.com/api/project/akarahan/FdF)|2.57|
+|02	     |[FdF](https://github.com/a-karah/FdF)			            				|C, Computer Graphics|![](https://badge42.herokuapp.com/api/project/akarahan/FdF)|2.57|
 |02	 |[minitalk]()					|C	|![](https://badge42.herokuapp.com/api/project/akarahan/minitalk)|		 |
 |02	 |[push_swap]()   |   C	| ![](https://badge42.herokuapp.com/api/project/akarahan/push_swap)						     |	         |
 |02	 |Exam Rank 02							|-	| ![]()	|	 |
