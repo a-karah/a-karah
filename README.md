@@ -26,12 +26,12 @@
 |01   	 |[ft_printf](https://github.com/a-karah/ft_printf)		          |C	         | ![](https://badge42.herokuapp.com/api/project/akarahan/ft_printf)|2.16   |
 |:dizzy: |						                                                  |     	     |		                              				                     |          |
 |02	     |[FdF](https://github.com/a-karah/FdF)			            				|C, Computer Graphics|![](https://badge42.herokuapp.com/api/project/akarahan/FdF)|2.57|
-|02	     |[minitalk](https://github.com/a-karah/minitalk)				      	|C	         |![](https://badge42.herokuapp.com/api/project/akarahan/minitalk)|3.02	    |
+|02	     |[minitalk](https://github.com/a-karah/minitalk)				      	|C	         | ![](https://badge42.herokuapp.com/api/project/akarahan/minitalk)|3.02	    |
 |02	 |[push_swap](https://github.com/a-karah/push_swap)                 |C	         | ![](https://badge42.herokuapp.com/api/project/akarahan/push_swap) |3.43|
 |02	 |Exam Rank 02							|-	| ![]()	|	 |
 |:dizzy: |						                                                  |     	     |		                              				                     |          |
 |03	 |[Philosophers]()						|C		|						     |		 |
-|03	 |[minishell]()							|C			|						     |		 |
+|03	 |[minishell](https://github.com/a-karah/minishell)                 |C			     |	![](https://badge42.herokuapp.com/api/project/akarahan/minishell)|4.01| 
 |03	 |Exam Rank 03							|-			|						     |		 |
 |:dizzy: |						                                                  |     	     |		                              				                     |          |
 |04	 |[NetPractice]()						|Networking			|						     |		 |
