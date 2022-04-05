@@ -9,7 +9,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <a href="https://profile.intra.42.fr/users/akarahan"><img src="https://badge42.herokuapp.com/api/stats/akarahan?privacyEmail=true&darkmode=true" /></a>
+    <a href="https://profile.intra.42.fr/users/akarahan"><img src="https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/stats?cursusId=21&coalitionId=195" /></a>
     </div>
 </div>
 
@@ -19,19 +19,19 @@
 
 | Circle | Project                                                      |  Language  |                            Score                              |  Level   |
 | :----: | :----------------------------------------------------------- | :--------: | :-----------------------------------------------------------: | :------: |
-|00	     |[Libft](https://github.com/a-karah/Libft)		                  |C	         | ![](https://badge42.herokuapp.com/api/project/akarahan/Libft) | 1.05     |
+|00	     |[Libft](https://github.com/a-karah/Libft)		                  |C	         | ![](https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/project/2449402) | 1.05     |
 |:dizzy: |						                                                  |     	     |		                              				                     |          |
-|01	     |[Born2beroot]()	                                             	|Networking  | ![](https://badge42.herokuapp.com/api/project/akarahan/Born2beroot)|1.31 |
-|01   	 |[get_next_line](https://github.com/a-karah/get_next_line)	    |C	         | ![](https://badge42.herokuapp.com/api/project/akarahan/get_next_line)|1.75|
-|01   	 |[ft_printf](https://github.com/a-karah/ft_printf)		          |C	         | ![](https://badge42.herokuapp.com/api/project/akarahan/ft_printf)|2.16   |
+|01	     |[Born2beroot]()	                                             	|Networking  | ![](https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/project/2451511)|1.31 |
+|01   	 |[get_next_line](https://github.com/a-karah/get_next_line)	    |C	         | ![](https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/project/2462759)|1.75|
+|01   	 |[ft_printf](https://github.com/a-karah/ft_printf)		          |C	         | ![](https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/project/2465338)|2.16   |
 |:dizzy: |						                                                  |     	     |		                              				                     |          |
-|02	     |[FdF](https://github.com/a-karah/FdF)			            				|C, Computer Graphics|![](https://badge42.herokuapp.com/api/project/akarahan/FdF)|2.57|
-|02	     |[minitalk](https://github.com/a-karah/minitalk)				      	|C	         | ![](https://badge42.herokuapp.com/api/project/akarahan/minitalk)|3.02	    |
-|02	 |[push_swap](https://github.com/a-karah/push_swap)                 |C	         | ![](https://badge42.herokuapp.com/api/project/akarahan/push_swap) |3.43|
-|02	 |Exam Rank 02							|-	| ![]()	|	 |
+|02	     |[FdF](https://github.com/a-karah/FdF)			            				|C, Computer Graphics|![](https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/project/2478567)|2.57|
+|02	     |[minitalk](https://github.com/a-karah/minitalk)				      	|C	         | ![](https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/project/2520011)|3.02	    |
+|02	 |[push_swap](https://github.com/a-karah/push_swap)                 |C	         | ![](https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/project/2520011) |3.43|
+|02	 |Exam Rank 02							|-	| ![](https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/project/2473114)	|	 |
 |:dizzy: |						                                                  |     	     |		                              				                     |          |
 |03	 |[Philosophers]()						|C		|						     |		 |
-|03	 |[minishell](https://github.com/a-karah/minishell)                 |C			     |	![](https://badge42.herokuapp.com/api/project/akarahan/minishell)|4.01| 
+|03	 |[minishell](https://github.com/a-karah/minishell)                 |C			     |	![](https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/project/2530135)|4.01| 
 |03	 |Exam Rank 03							|-			|						     |		 |
 |:dizzy: |						                                                  |     	     |		                              				                     |          |
 |04	 |[NetPractice]()						|Networking			|						     |		 |
