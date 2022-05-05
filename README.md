@@ -30,8 +30,8 @@
 |02	 |[push_swap](https://github.com/a-karah/push_swap)                 |C	         | ![](https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/project/2520011) |3.43|
 |02	 |Exam Rank 02							|-	| ![](https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/project/2473114)	|	 |
 |:dizzy: |						                                                  |     	     |		                              				                     |          |
-|03	 |[Philosophers]()						|C		|						     |		 |
-|03	 |[minishell](https://github.com/a-karah/minishell)                 |C			     |	![](https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/project/2530135)|4.01| 
+|03	 |[minishell](https://github.com/a-karah/minishell)                 |C			     |![](https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/project/2530135)|4.01|
+|03	 |[Philosophers](https://github.com/a-karah/philosophers)						|C		       |![](https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/project/2561809)|4.21|
 |03	 |Exam Rank 03							|-			|						     |		 |
 |:dizzy: |						                                                  |     	     |		                              				                     |          |
 |04	 |[NetPractice]()						|Networking			|						     |		 |
