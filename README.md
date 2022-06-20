@@ -9,7 +9,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <a href="https://profile.intra.42.fr/users/akarahan"><img src="https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/stats?cursusId=21&coalitionId=195" /></a>
+    <a href="https://profile.intra.42.fr/users/akarahan"><img src="https://badge42.vercel.app/api/v2/cl1l5f6ei003509lh6jxnpqfl/stats?cursusId=21&coalitionId=224" /></a>
     </div>
 </div>
 
