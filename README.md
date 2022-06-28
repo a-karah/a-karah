@@ -5,7 +5,7 @@
 </p>
 
 - 👨‍🎓 I'm currently study at [42 İstanbul](https://www.42istanbul.com.tr/)
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
